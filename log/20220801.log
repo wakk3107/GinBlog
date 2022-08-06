@@ -1,0 +1,6 @@
+time="2022-08-01 21:44:47" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=1522 Hostname=DESKTOP-39DFKTB Ip=127.0.0.1 Method=GET Path="/api/v1/user/getusers?pagesize=5&pagenum=1" SpendTime="17 ms" Status=200
+time="2022-08-01 21:45:04" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=1522 Hostname=DESKTOP-39DFKTB Ip=127.0.0.1 Method=GET Path="/api/v1/user/getusers?pagesize=5&pagenum=1" SpendTime="2 ms" Status=200
+time="2022-08-01 21:46:54" level=warning Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=0 Hostname=DESKTOP-39DFKTB Ip=127.0.0.1 Method=POST Path=/api/v1//test SpendTime="1 ms" Status=404
+time="2022-08-01 21:47:46" level=warning Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=0 Hostname=DESKTOP-39DFKTB Ip=127.0.0.1 Method=POST Path=/api/v1/user/test SpendTime="0 ms" Status=404
+time="2022-08-01 21:47:53" level=warning Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=0 Hostname=DESKTOP-39DFKTB Ip=127.0.0.1 Method=POST Path=/api/v1/user/test SpendTime="0 ms" Status=404
+time="2022-08-01 21:51:40" level=info Agent="ApiPOST Runtime +https://www.apipost.cn" DataSize=18 Hostname=DESKTOP-39DFKTB Ip=127.0.0.1 Method=POST Path=/api/v1/user/test SpendTime="2 ms" Status=200
