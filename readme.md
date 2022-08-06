@@ -138,15 +138,14 @@ JwtKey=8afiehoui
 Db=mysql
 DbHost=localhost
 DbPort=3306
-DbUser=root
-DbPass=245330
+DbUser=
+DbPass=
 DbName=ginblog
 [qiniu]
-AccessKey  =t-bRhW2JdUwaETsZzeFkaVIaqzATr3gFEFUyxmnN
-SecretKey  =jByGU5XBaUaPBO2BQWYHOwjBaKkS8k0zLqWK67qo
-Bucket     =wakk3107
-QiniuServer=http://rfd843vfl.hd-bkt.clouddn.com/
-
+AccessKey  =
+SecretKey  =
+Bucket     =
+QiniuServer=
 ```
 
 5. 在database中将 sql 文件导入数据库
